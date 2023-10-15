@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 # 📝React.js Todo App
 
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
+## (https://todolist-phi-five.vercel.app/)
 
 ## 📷 Screenshots
 
